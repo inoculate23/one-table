@@ -2,12 +2,7 @@
 
 > *Ten nations. Ten languages. One cumulative plan for peace — built verse by verse.*
 
----
 
-![One Table Globe](./screenshot.png)
-*Screenshot: Take a screenshot of `one-table-hologram.html` and save as `screenshot.png` in the repo root*
-
----
 
 ## What Is This?
 
@@ -106,16 +101,6 @@ Open `one-table-hologram.html` in any modern browser. Chrome recommended for bes
 
 ---
 
-## ⚙️ Stripe Setup (When Ready)
-
-1. Go to [dashboard.stripe.com](https://dashboard.stripe.com) → **Payment Links → Create Link**
-2. Create one link per product
-3. In `one-table-hologram.html`, find the `MERCH` array and replace each `#stripe-XXXXX` placeholder with your real Stripe Payment Link URL
-4. Remove the `.disabled` class and `onclick="return false"` from the buy buttons
-
-No backend required — Stripe handles all checkout, fulfillment notifications, and card processing.
-
----
 
 ## 🛠️ Tech Stack
 
