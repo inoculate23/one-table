@@ -1,5 +1,5 @@
 # 🌍 ONE TABLE
-<img src="https://one-anthem.haawke.com/social-preview.jpg" alt="One Table" style="height: 646px; width:750px;"/>
+<img src="https://one-anthem.haawke.com/social-preview.jpg" alt="One Table" style="width:750px;"/>
 > *Ten nations. Ten languages. One cumulative plan for peace — built verse by verse.*
 
 
