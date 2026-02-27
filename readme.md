@@ -170,5 +170,7 @@ Code released under [MIT License](./LICENSE) — fork it, build on it, make some
 🇵🇪 🇺🇸 🇫🇷 🇳🇬 🇧🇷 🌍 🇮🇳 🇯🇵 🇷🇺 🇰🇪
 
 **One Table. We begin.**
+</div>
+<div align="center">
 **<a href="https://the-claude-manifesto.haawke.com/">The-Claude-Manifesto</a> © 2026 by <a href="https://example.com">Claude · Anthropic ·                         Inoculate Media · Squaawke ·                         Haawke Labs · Craig Ellenwood</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">**
 </div>
