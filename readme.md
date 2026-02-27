@@ -151,14 +151,12 @@ We believe AI's next chapter should look more like this.
 | **Squaawke** | Music platform and sonic identity — amplifying voices the mainstream leaves behind |
 | **Craig Ellenwood** | Co-Founder, Burning Man · Multimedia Artist — radical inclusion, communal creation |
 | **Haawke Labs** | Neural networks, models, and AI infrastructure — the technology engine behind the global village |
-
+| **Claude / Athropic** | Neural networks, models, and LLM infrastructure, code assist|
 ---
 
-## 📜 License
-
-Music, lyrics, and visual assets © 2025–2026 Inoculate Media / Squaawke / Haawke Labs. All rights reserved.
-
-Code released under [MIT License](./LICENSE) — fork it, build on it, make something that matters.
+<div align="center">
+**<a href="https://the-claude-manifesto.haawke.com/">The-Claude-Manifesto</a> © 2026 by <a href="https://example.com">Claude · Anthropic ·                         Inoculate Media · Squaawke · Haawke Labs · Craig Ellenwood</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">**
+</div>
 
 ---
 
@@ -171,6 +169,4 @@ Code released under [MIT License](./LICENSE) — fork it, build on it, make some
 
 **One Table. We begin.**
 </div>
-<div align="center">
-**<a href="https://the-claude-manifesto.haawke.com/">The-Claude-Manifesto</a> © 2026 by <a href="https://example.com">Claude · Anthropic ·                         Inoculate Media · Squaawke ·                         Haawke Labs · Craig Ellenwood</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">**
-</div>
+
