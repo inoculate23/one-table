@@ -155,7 +155,7 @@ We believe AI's next chapter should look more like this.
 ---
 
 <div align="center">
-<a href="https://the-claude-manifesto.haawke.com/">The-Claude-Manifesto</a> and <a href="https://one-anthem.haawke.com/">One Table</a> **© 2026 by <a href="https://Haawke.com">Claude · Anthropic · Inoculate Media · Squaawke · Haawke Labs · Craig Ellenwood</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+ <a href="https://one-anthem.haawke.com/">One Table</a> **© 2026 by Claude · Anthropic · Inoculate Media · Squaawke · Haawke Labs · Craig Ellenwood is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 </div>
 
 ---
